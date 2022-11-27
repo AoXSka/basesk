@@ -14,8 +14,8 @@ $AuthPass = 'Tikol4Life';
 
 //-----------------------------------------------------------------------------------------//
 //Telegram Bot Informations
-$bot_name = "OppaTikolero Bot"; //change this to any bot name you want.
-$bot_token = "xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //change this to your own bot Token.
+$bot_name = "amino999_bot"; //change this to any bot name you want.
+$bot_token = "1842195098:AAHWr5RwgmBTvALR_KR4jy9RR_PPfqImwNM"; //change this to your own bot Token.
 $token_url = 'https://api.telegram.org/bot'.$bot_token;
 
 
